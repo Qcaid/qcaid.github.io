@@ -1,0 +1,345 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0"
+  xmlns:atom="http://www.w3.org/2005/Atom"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>vegecaiBlog</title>
+    <link>http://example.com/</link>
+    
+    <image>
+      <url>http://example.com/img/friends/Barry-Flynn.jpg</url>
+      <title>vegecaiBlog</title>
+      <link>http://example.com/</link>
+    </image>
+    
+    <atom:link href="http://example.com/rss2.xml" rel="self" type="application/rss+xml"/>
+    
+    <description>守岁花开，季季不同</description>
+    <pubDate>Wed, 04 Jun 2025 16:19:30 GMT</pubDate>
+    <generator>http://hexo.io/</generator>
+    
+    <item>
+      <title>QPR 四步自杀预防</title>
+      <link>http://example.com/2025/06/05/qpr/</link>
+      <guid>http://example.com/2025/06/05/qpr/</guid>
+      <pubDate>Wed, 04 Jun 2025 16:14:46 GMT</pubDate>
+      
+        
+        
+          
+          
+      <description>&lt;h1 id=&quot;QPR-四步自杀预防&quot;&gt;&lt;a href=&quot;#QPR-四步自杀预防&quot; class=&quot;headerlink&quot; title=&quot;QPR 四步自杀预防&quot;&gt;&lt;/a&gt;QPR</description>
+          
+        
+      
+      
+      
+      
+      
+      <category domain="http://example.com/tags/%E8%BD%AC%E8%BD%BD/">转载</category>
+      
+      
+      <comments>http://example.com/2025/06/05/qpr/#disqus_thread</comments>
+      
+    </item>
+    
+    <item>
+      <title>提问的智慧</title>
+      <link>http://example.com/2025/05/26/How-To-Ask-Questions-The-Smart-Way/</link>
+      <guid>http://example.com/2025/05/26/How-To-Ask-Questions-The-Smart-Way/</guid>
+      <pubDate>Mon, 26 May 2025 05:42:26 GMT</pubDate>
+      
+        
+        
+          
+          
+      <description>&lt;p&gt;&lt;a href=&quot;https://how-to-ask.redish101.top/&quot;&gt;How-To-Ask-Questions-The-Smart-Way&lt;/a&gt;&lt;br&gt;&amp;#x3D;&amp;#x3D;&amp;#x3D;&amp;#x3D; &amp;#x3D;&amp;#x3D;&amp;#x3D;&amp;#x3D;</description>
+          
+        
+      
+      
+      
+      
+      
+      <category domain="http://example.com/tags/%E8%BD%AC%E8%BD%BD/">转载</category>
+      
+      
+      <comments>http://example.com/2025/05/26/How-To-Ask-Questions-The-Smart-Way/#disqus_thread</comments>
+      
+    </item>
+    
+    <item>
+      <title>关于全栈的一些思考</title>
+      <link>http://example.com/2025/05/19/some-think/</link>
+      <guid>http://example.com/2025/05/19/some-think/</guid>
+      <pubDate>Mon, 19 May 2025 00:48:22 GMT</pubDate>
+      
+        
+        
+          
+          
+      <description>&lt;h1 id=&quot;何为全栈-写在开始&quot;&gt;&lt;a href=&quot;#何为全栈-写在开始&quot; class=&quot;headerlink&quot; title=&quot;何为全栈&amp;amp;写在开始&quot;&gt;&lt;/a&gt;何为全栈&amp;amp;写在开始&lt;/h1&gt;&lt;blockquote&gt;
+&lt;p&gt;“全栈”（Full</description>
+          
+        
+      
+      
+      
+      
+      <category domain="http://example.com/categories/%E6%8A%80%E6%9C%AF/">技术</category>
+      
+      
+      <category domain="http://example.com/tags/%E6%8A%80%E6%9C%AF/">技术</category>
+      
+      
+      <comments>http://example.com/2025/05/19/some-think/#disqus_thread</comments>
+      
+    </item>
+    
+    <item>
+      <title>友链互换相关告知</title>
+      <link>http://example.com/2025/05/13/friend-link/</link>
+      <guid>http://example.com/2025/05/13/friend-link/</guid>
+      <pubDate>Tue, 13 May 2025 05:35:35 GMT</pubDate>
+      
+        
+        
+          
+          
+      <description>&lt;h2 id=&quot;关于友链&quot;&gt;&lt;a href=&quot;#关于友链&quot; class=&quot;headerlink&quot; title=&quot;关于友链&quot;&gt;&lt;/a&gt;关于友链&lt;/h2&gt;&lt;p&gt;换友链促进共同进步呀&lt;/p&gt;
+&lt;h3 id=&quot;本站添加的友链要求&quot;&gt;&lt;a href=&quot;#本站添加的友链要求&quot;</description>
+          
+        
+      
+      
+      
+      
+      
+      <category domain="http://example.com/tags/%E5%8F%8B%E9%93%BE/">友链</category>
+      
+      
+      <comments>http://example.com/2025/05/13/friend-link/#disqus_thread</comments>
+      
+    </item>
+    
+    <item>
+      <title>利用Cloudflare R2对象存储搭建图床</title>
+      <link>http://example.com/2025/05/10/R2-img/</link>
+      <guid>http://example.com/2025/05/10/R2-img/</guid>
+      <pubDate>Sat, 10 May 2025 07:19:47 GMT</pubDate>
+      
+        
+        
+          
+          
+      <description>&lt;h1 id=&quot;利用Cloudflare-R2对象存储搭建图床&quot;&gt;&lt;a href=&quot;#利用Cloudflare-R2对象存储搭建图床&quot; class=&quot;headerlink&quot; title=&quot;利用Cloudflare R2对象存储搭建图床&quot;&gt;&lt;/a&gt;利用Cloudflare</description>
+          
+        
+      
+      
+      
+      
+      
+      <category domain="http://example.com/tags/%E6%8A%80%E6%9C%AF/">技术</category>
+      
+      
+      <comments>http://example.com/2025/05/10/R2-img/#disqus_thread</comments>
+      
+    </item>
+    
+    <item>
+      <title>congcong</title>
+      <link>http://example.com/2025/05/04/congcong/</link>
+      <guid>http://example.com/2025/05/04/congcong/</guid>
+      <pubDate>Sat, 03 May 2025 16:52:59 GMT</pubDate>
+      
+        
+        
+          
+          
+      <description>&lt;h1 id=&quot;朱自清《匆匆》&quot;&gt;&lt;a href=&quot;#朱自清《匆匆》&quot; class=&quot;headerlink&quot;</description>
+          
+        
+      
+      
+      
+      
+      
+      <category domain="http://example.com/tags/%E6%96%87%E5%AD%A6%E5%88%86%E4%BA%AB/">文学分享</category>
+      
+      
+      <comments>http://example.com/2025/05/04/congcong/#disqus_thread</comments>
+      
+    </item>
+    
+    <item>
+      <title>记一次默认配置导致的问题</title>
+      <link>http://example.com/2025/04/19/funvsc/</link>
+      <guid>http://example.com/2025/04/19/funvsc/</guid>
+      <pubDate>Fri, 18 Apr 2025 16:56:08 GMT</pubDate>
+      
+        
+        
+          
+          
+      <description>&lt;h3 id=&quot;前言&quot;&gt;&lt;a href=&quot;#前言&quot; class=&quot;headerlink&quot; title=&quot;前言&quot;&gt;&lt;/a&gt;前言&lt;/h3&gt;&lt;p&gt;朋友告诉我，他的vscode插件无法正常使用了，于是我远程解决问题&lt;/p&gt;
+&lt;h3 id=&quot;插件描述&quot;&gt;&lt;a href=&quot;#插件描述&quot;</description>
+          
+        
+      
+      
+      
+      
+      
+      <category domain="http://example.com/tags/%E6%8A%80%E6%9C%AF/">技术</category>
+      
+      
+      <comments>http://example.com/2025/04/19/funvsc/#disqus_thread</comments>
+      
+    </item>
+    
+    <item>
+      <title>笔记-Spark向量化计算在美团生产环境的实践</title>
+      <link>http://example.com/2025/04/19/mtspark/</link>
+      <guid>http://example.com/2025/04/19/mtspark/</guid>
+      <pubDate>Fri, 18 Apr 2025 16:48:46 GMT</pubDate>
+      
+        
+        
+          
+          
+      <description>&lt;p&gt;美团在生产环境中实践了Spark向量化计算，利用Gluten和Velox实现了性能和资源利用的优化。以下是对这一实践的概括：&lt;/p&gt;
+&lt;h3 id=&quot;向量化计算原理&quot;&gt;&lt;a href=&quot;#向量化计算原理&quot; class=&quot;headerlink&quot;</description>
+          
+        
+      
+      
+      
+      
+      
+      <category domain="http://example.com/tags/%E6%8A%80%E6%9C%AF/">技术</category>
+      
+      
+      <comments>http://example.com/2025/04/19/mtspark/#disqus_thread</comments>
+      
+    </item>
+    
+    <item>
+      <title>hello-dev-world</title>
+      <link>http://example.com/2025/04/19/hello-dev-world/</link>
+      <guid>http://example.com/2025/04/19/hello-dev-world/</guid>
+      <pubDate>Fri, 18 Apr 2025 16:44:16 GMT</pubDate>
+      
+        
+        
+          
+          
+      <description>&lt;h1 id=&quot;各种语言输出-hello-world&quot;&gt;&lt;a href=&quot;#各种语言输出-hello-world&quot; class=&quot;headerlink&quot; title=&quot;各种语言输出: hello world&quot;&gt;&lt;/a&gt;各种语言输出: hello world&lt;/h1&gt;&lt;h2</description>
+          
+        
+      
+      
+      
+      
+      
+      <category domain="http://example.com/tags/%E6%8A%80%E6%9C%AF/">技术</category>
+      
+      
+      <comments>http://example.com/2025/04/19/hello-dev-world/#disqus_thread</comments>
+      
+    </item>
+    
+    <item>
+      <title>宫保鸡丁</title>
+      <link>http://example.com/2025/04/18/gbjd/</link>
+      <guid>http://example.com/2025/04/18/gbjd/</guid>
+      <pubDate>Fri, 18 Apr 2025 12:04:09 GMT</pubDate>
+      
+      <description>宫保鸡丁的做法，很好吃！</description>
+      
+      
+      
+      
+      
+      <category domain="http://example.com/tags/%E7%BE%8E%E5%91%B3%E7%9A%84%E9%A3%9F%E7%89%A9/">美味的食物</category>
+      
+      
+      <comments>http://example.com/2025/04/18/gbjd/#disqus_thread</comments>
+      
+    </item>
+    
+    <item>
+      <title>红烧茄子</title>
+      <link>http://example.com/2025/04/18/sqz/</link>
+      <guid>http://example.com/2025/04/18/sqz/</guid>
+      <pubDate>Fri, 18 Apr 2025 11:47:46 GMT</pubDate>
+      
+        
+        
+          
+          
+      <description>&lt;h1 id=&quot;红烧茄子菜谱&quot;&gt;&lt;a href=&quot;#红烧茄子菜谱&quot; class=&quot;headerlink&quot; title=&quot;红烧茄子菜谱&quot;&gt;&lt;/a&gt;红烧茄子菜谱&lt;/h1&gt;&lt;h2 id=&quot;主料&quot;&gt;&lt;a href=&quot;#主料&quot; class=&quot;headerlink&quot;</description>
+          
+        
+      
+      
+      
+      
+      
+      <category domain="http://example.com/tags/%E7%BE%8E%E5%91%B3%E7%9A%84%E9%A3%9F%E7%89%A9/">美味的食物</category>
+      
+      
+      <comments>http://example.com/2025/04/18/sqz/#disqus_thread</comments>
+      
+    </item>
+    
+    <item>
+      <title>新的开始</title>
+      <link>http://example.com/2025/04/18/reak/</link>
+      <guid>http://example.com/2025/04/18/reak/</guid>
+      <pubDate>Thu, 17 Apr 2025 18:56:07 GMT</pubDate>
+      
+        
+        
+          
+          
+      <description>&lt;h2 id=&quot;重新出发&quot;&gt;&lt;a href=&quot;#重新出发&quot; class=&quot;headerlink&quot; title=&quot;重新出发&quot;&gt;&lt;/a&gt;重新出发&lt;/h2&gt;&lt;p&gt;hi！&lt;mark class=&quot;hl-label green&quot;&gt;vegecai.moe&lt;/mark&gt; there ! !</description>
+          
+        
+      
+      
+      
+      
+      
+      <category domain="http://example.com/tags/%E7%A2%8E%E7%A2%8E%E5%BF%B5/">碎碎念</category>
+      
+      
+      <comments>http://example.com/2025/04/18/reak/#disqus_thread</comments>
+      
+    </item>
+    
+    <item>
+      <title>Hello World</title>
+      <link>http://example.com/2025/04/16/hello-world/</link>
+      <guid>http://example.com/2025/04/16/hello-world/</guid>
+      <pubDate>Tue, 15 Apr 2025 16:42:51 GMT</pubDate>
+      
+        
+        
+          
+          
+      <description>&lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot;&gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a href=&quot;https://hexo.io/docs/&quot;&gt;documentation&lt;/a&gt;</description>
+          
+        
+      
+      
+      
+      
+      
+      
+      <comments>http://example.com/2025/04/16/hello-world/#disqus_thread</comments>
+      
+    </item>
+    
+  </channel>
+</rss>
