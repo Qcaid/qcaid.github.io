@@ -6,7 +6,7 @@
   <link href="https://blog.vegecai.moe/atom.xml" rel="self"/>
   
   <link href="https://blog.vegecai.moe/"/>
-  <updated>2025-07-25T16:35:50.238Z</updated>
+  <updated>2025-10-04T13:56:26.514Z</updated>
   <id>https://blog.vegecai.moe/</id>
   
   <author>
@@ -15,6 +15,29 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>体验100种工作-线上超市拣货员</title>
+    <link href="https://blog.vegecai.moe/2025/09/08/100-work-01/"/>
+    <id>https://blog.vegecai.moe/2025/09/08/100-work-01/</id>
+    <published>2025-09-07T16:37:31.000Z</published>
+    <updated>2025-10-04T13:56:26.514Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h2 id=&quot;0x0-开篇：你以为超市只是买东西的地方？&quot;&gt;&lt;a href=&quot;#0x0-开篇：你以为超市只是买东西的地方？&quot; class=&quot;headerlink&quot; title=&quot;0x0 开篇：你以为超市只是买东西的地方？&quot;&gt;&lt;/a&gt;0x0</summary>
+        
+      
+    
+    
+    
+    
+    <category term="工作" scheme="https://blog.vegecai.moe/tags/%E5%B7%A5%E4%BD%9C/"/>
+    
+  </entry>
   
   <entry>
     <title>守岁花</title>
@@ -335,27 +358,6 @@
     
     
     <category term="碎碎念" scheme="https://blog.vegecai.moe/tags/%E7%A2%8E%E7%A2%8E%E5%BF%B5/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>Hello World</title>
-    <link href="https://blog.vegecai.moe/2025/04/16/hello-world/"/>
-    <id>https://blog.vegecai.moe/2025/04/16/hello-world/</id>
-    <published>2025-04-15T16:42:51.571Z</published>
-    <updated>2025-05-22T08:27:02.701Z</updated>
-    
-    
-      
-      
-        
-        
-    <summary type="html">&lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot;&gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a href=&quot;https://hexo.io/docs/&quot;&gt;documentation&lt;/a&gt;</summary>
-        
-      
-    
-    
-    
     
   </entry>
   
