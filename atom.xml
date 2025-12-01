@@ -6,7 +6,7 @@
   <link href="https://blog.vegecai.moe/atom.xml" rel="self"/>
   
   <link href="https://blog.vegecai.moe/"/>
-  <updated>2025-10-04T14:38:48.823Z</updated>
+  <updated>2025-12-01T13:40:41.804Z</updated>
   <id>https://blog.vegecai.moe/</id>
   
   <author>
@@ -15,6 +15,30 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>C++的核心：硬件暴力美学和零成本抽象！</title>
+    <link href="https://blog.vegecai.moe/2025/12/01/cpp/"/>
+    <id>https://blog.vegecai.moe/2025/12/01/cpp/</id>
+    <published>2025-12-01T12:49:33.000Z</published>
+    <updated>2025-12-01T13:40:41.804Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;hr&gt;
+&lt;p&gt;有一个专门算浮点乘加的函数：std::fma，简写来自 Fused Multiply-Add；你输入 x, y, z，然后它给你返回 x * y + z。有人可能会问：“哎？那这和直接写 x * y + z 有什么区别呢？”这个函数真正关键的其实是那个</summary>
+        
+      
+    
+    
+    
+    
+    <category term="技术" scheme="https://blog.vegecai.moe/tags/%E6%8A%80%E6%9C%AF/"/>
+    
+  </entry>
   
   <entry>
     <title>轮椅虽慢</title>
@@ -336,29 +360,6 @@
     
     
     <category term="美味的食物" scheme="https://blog.vegecai.moe/tags/%E7%BE%8E%E5%91%B3%E7%9A%84%E9%A3%9F%E7%89%A9/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>新的开始</title>
-    <link href="https://blog.vegecai.moe/2025/04/18/reak/"/>
-    <id>https://blog.vegecai.moe/2025/04/18/reak/</id>
-    <published>2025-04-17T18:56:07.000Z</published>
-    <updated>2025-04-19T18:38:56.405Z</updated>
-    
-    
-      
-      
-        
-        
-    <summary type="html">&lt;h2 id=&quot;重新出发&quot;&gt;&lt;a href=&quot;#重新出发&quot; class=&quot;headerlink&quot; title=&quot;重新出发&quot;&gt;&lt;/a&gt;重新出发&lt;/h2&gt;&lt;p&gt;hi！&lt;mark class=&quot;hl-label green&quot;&gt;vegecai.moe&lt;/mark&gt; there ! !</summary>
-        
-      
-    
-    
-    
-    
-    <category term="碎碎念" scheme="https://blog.vegecai.moe/tags/%E7%A2%8E%E7%A2%8E%E5%BF%B5/"/>
     
   </entry>
   
