@@ -1,3 +1,3 @@
-var posts=["2025/04/16/hello-world/","2025/04/18/reak/","2025/04/18/sqz/","2025/04/18/gbjd/","2025/04/19/hello-dev-world/","2025/04/19/mtspark/","2025/04/19/funvsc/","2025/05/04/congcong/","2025/05/10/R2-img/","2025/05/19/some-think/","2025/05/26/How-To-Ask-Questions-The-Smart-Way/","2025/06/05/qpr/","2025/06/16/mycs/","2025/07/26/flower/","2025/09/08/100-work-01/","2025/10/04/he/","2025/12/01/cpp/"];function toRandomPost(){
+var posts=["2025/04/16/hello-world/","2025/04/18/reak/","2025/04/18/sqz/","2025/04/18/gbjd/","2025/04/19/hello-dev-world/","2025/04/19/mtspark/","2025/04/19/funvsc/","2025/05/04/congcong/","2025/05/10/R2-img/","2025/05/19/some-think/","2025/05/26/How-To-Ask-Questions-The-Smart-Way/","2025/06/05/qpr/","2025/06/16/mycs/","2025/07/26/flower/","2025/09/08/100-work-01/","2025/10/04/he/","2025/12/01/cpp/","2026/03/08/hate-apps/"];function toRandomPost(){
     pjax.loadUrl('/'+posts[Math.floor(Math.random() * posts.length)]);
   };
