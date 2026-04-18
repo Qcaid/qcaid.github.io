@@ -6,7 +6,7 @@
   <link href="https://blog.kwicaii.moe/atom.xml" rel="self"/>
   
   <link href="https://blog.kwicaii.moe/"/>
-  <updated>2026-03-08T14:43:27.848Z</updated>
+  <updated>2026-04-18T11:54:35.633Z</updated>
   <id>https://blog.kwicaii.moe/</id>
   
   <author>
@@ -15,6 +15,29 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>localhost和127.0.0.1的区别</title>
+    <link href="https://blog.kwicaii.moe/2026/04/18/localhostand127/"/>
+    <id>https://blog.kwicaii.moe/2026/04/18/localhostand127/</id>
+    <published>2026-04-18T11:37:42.000Z</published>
+    <updated>2026-04-18T11:54:35.633Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;前端开发者在本地调试时，经常与 localhost 打交道，只需运行 &lt;code&gt;npm run&lt;/code&gt; 就能在浏览器中打开网页，地址栏显示类似 &lt;code&gt;http://localhost:3000/index.html&lt;/code&gt;</summary>
+        
+      
+    
+    
+    
+    
+    <category term="技术" scheme="https://blog.kwicaii.moe/tags/%E6%8A%80%E6%9C%AF/"/>
+    
+  </entry>
   
   <entry>
     <title>你被App恶心到的瞬间，都是精心的设计</title>
@@ -343,23 +366,6 @@
     
     
     <category term="技术" scheme="https://blog.kwicaii.moe/tags/%E6%8A%80%E6%9C%AF/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>宫保鸡丁</title>
-    <link href="https://blog.kwicaii.moe/2025/04/18/gbjd/"/>
-    <id>https://blog.kwicaii.moe/2025/04/18/gbjd/</id>
-    <published>2025-04-18T12:04:09.000Z</published>
-    <updated>2026-02-10T15:11:55.550Z</updated>
-    
-    
-    <summary type="html">宫保鸡丁的做法，很好吃！</summary>
-    
-    
-    
-    
-    <category term="美味的食物" scheme="https://blog.kwicaii.moe/tags/%E7%BE%8E%E5%91%B3%E7%9A%84%E9%A3%9F%E7%89%A9/"/>
     
   </entry>
   

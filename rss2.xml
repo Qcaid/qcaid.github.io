@@ -15,8 +15,33 @@
     <atom:link href="https://blog.kwicaii.moe/rss2.xml" rel="self" type="application/rss+xml"/>
     
     <description>守岁花开，季季不同</description>
-    <pubDate>Sun, 08 Mar 2026 14:43:27 GMT</pubDate>
+    <pubDate>Sat, 18 Apr 2026 11:54:35 GMT</pubDate>
     <generator>http://hexo.io/</generator>
+    
+    <item>
+      <title>localhost和127.0.0.1的区别</title>
+      <link>https://blog.kwicaii.moe/2026/04/18/localhostand127/</link>
+      <guid>https://blog.kwicaii.moe/2026/04/18/localhostand127/</guid>
+      <pubDate>Sat, 18 Apr 2026 11:37:42 GMT</pubDate>
+      
+        
+        
+          
+          
+      <description>&lt;p&gt;前端开发者在本地调试时，经常与 localhost 打交道，只需运行 &lt;code&gt;npm run&lt;/code&gt; 就能在浏览器中打开网页，地址栏显示类似 &lt;code&gt;http://localhost:3000/index.html&lt;/code&gt;</description>
+          
+        
+      
+      
+      
+      
+      
+      <category domain="https://blog.Kwicaii.moe/tags/%E6%8A%80%E6%9C%AF/">技术</category>
+      
+      
+      <comments>https://blog.kwicaii.moe/2026/04/18/localhostand127/#disqus_thread</comments>
+      
+    </item>
     
     <item>
       <title>你被App恶心到的瞬间，都是精心的设计</title>
@@ -373,25 +398,6 @@
       
       
       <comments>https://blog.kwicaii.moe/2025/04/19/hello-dev-world/#disqus_thread</comments>
-      
-    </item>
-    
-    <item>
-      <title>宫保鸡丁</title>
-      <link>https://blog.kwicaii.moe/2025/04/18/gbjd/</link>
-      <guid>https://blog.kwicaii.moe/2025/04/18/gbjd/</guid>
-      <pubDate>Fri, 18 Apr 2025 12:04:09 GMT</pubDate>
-      
-      <description>宫保鸡丁的做法，很好吃！</description>
-      
-      
-      
-      
-      
-      <category domain="https://blog.Kwicaii.moe/tags/%E7%BE%8E%E5%91%B3%E7%9A%84%E9%A3%9F%E7%89%A9/">美味的食物</category>
-      
-      
-      <comments>https://blog.kwicaii.moe/2025/04/18/gbjd/#disqus_thread</comments>
       
     </item>
     
