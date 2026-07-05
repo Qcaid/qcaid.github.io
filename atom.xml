@@ -6,7 +6,7 @@
   <link href="https://blog.kwicaii.moe/atom.xml" rel="self"/>
   
   <link href="https://blog.kwicaii.moe/"/>
-  <updated>2026-04-18T13:18:18.823Z</updated>
+  <updated>2026-07-05T00:11:01.042Z</updated>
   <id>https://blog.kwicaii.moe/</id>
   
   <author>
@@ -15,6 +15,29 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>无信任机制：从密码学到共识的数学保证</title>
+    <link href="https://blog.kwicaii.moe/2026/07/05/Trustless-Mechanism/"/>
+    <id>https://blog.kwicaii.moe/2026/07/05/Trustless-Mechanism/</id>
+    <published>2026-07-04T23:27:57.000Z</published>
+    <updated>2026-07-05T00:11:01.042Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h2 id=&quot;一、什么是无信任机制？&quot;&gt;&lt;a href=&quot;#一、什么是无信任机制？&quot; class=&quot;headerlink&quot;</summary>
+        
+      
+    
+    
+    
+    
+    <category term="技术" scheme="https://blog.kwicaii.moe/tags/%E6%8A%80%E6%9C%AF/"/>
+    
+  </entry>
   
   <entry>
     <title>localhost和127.0.0.1的区别</title>
@@ -336,29 +359,6 @@
         
     <summary type="html">&lt;p&gt;美团在生产环境中实践了Spark向量化计算，利用Gluten和Velox实现了性能和资源利用的优化。以下是对这一实践的概括：&lt;/p&gt;
 &lt;h3 id=&quot;向量化计算原理&quot;&gt;&lt;a href=&quot;#向量化计算原理&quot; class=&quot;headerlink&quot;</summary>
-        
-      
-    
-    
-    
-    
-    <category term="技术" scheme="https://blog.kwicaii.moe/tags/%E6%8A%80%E6%9C%AF/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>hello-dev-world</title>
-    <link href="https://blog.kwicaii.moe/2025/04/19/hello-dev-world/"/>
-    <id>https://blog.kwicaii.moe/2025/04/19/hello-dev-world/</id>
-    <published>2025-04-18T16:44:16.000Z</published>
-    <updated>2026-02-10T15:12:08.432Z</updated>
-    
-    
-      
-      
-        
-        
-    <summary type="html">&lt;h1 id=&quot;各种语言输出-hello-world&quot;&gt;&lt;a href=&quot;#各种语言输出-hello-world&quot; class=&quot;headerlink&quot; title=&quot;各种语言输出: hello world&quot;&gt;&lt;/a&gt;各种语言输出: hello world&lt;/h1&gt;&lt;h2</summary>
         
       
     

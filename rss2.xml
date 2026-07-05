@@ -15,8 +15,33 @@
     <atom:link href="https://blog.kwicaii.moe/rss2.xml" rel="self" type="application/rss+xml"/>
     
     <description>守岁花开，季季不同</description>
-    <pubDate>Sat, 18 Apr 2026 13:18:18 GMT</pubDate>
+    <pubDate>Sun, 05 Jul 2026 00:11:01 GMT</pubDate>
     <generator>http://hexo.io/</generator>
+    
+    <item>
+      <title>无信任机制：从密码学到共识的数学保证</title>
+      <link>https://blog.kwicaii.moe/2026/07/05/Trustless-Mechanism/</link>
+      <guid>https://blog.kwicaii.moe/2026/07/05/Trustless-Mechanism/</guid>
+      <pubDate>Sat, 04 Jul 2026 23:27:57 GMT</pubDate>
+      
+        
+        
+          
+          
+      <description>&lt;h2 id=&quot;一、什么是无信任机制？&quot;&gt;&lt;a href=&quot;#一、什么是无信任机制？&quot; class=&quot;headerlink&quot;</description>
+          
+        
+      
+      
+      
+      
+      
+      <category domain="https://blog.Kwicaii.moe/tags/%E6%8A%80%E6%9C%AF/">技术</category>
+      
+      
+      <comments>https://blog.kwicaii.moe/2026/07/05/Trustless-Mechanism/#disqus_thread</comments>
+      
+    </item>
     
     <item>
       <title>localhost和127.0.0.1的区别</title>
@@ -373,31 +398,6 @@
       
       
       <comments>https://blog.kwicaii.moe/2025/04/19/mtspark/#disqus_thread</comments>
-      
-    </item>
-    
-    <item>
-      <title>hello-dev-world</title>
-      <link>https://blog.kwicaii.moe/2025/04/19/hello-dev-world/</link>
-      <guid>https://blog.kwicaii.moe/2025/04/19/hello-dev-world/</guid>
-      <pubDate>Fri, 18 Apr 2025 16:44:16 GMT</pubDate>
-      
-        
-        
-          
-          
-      <description>&lt;h1 id=&quot;各种语言输出-hello-world&quot;&gt;&lt;a href=&quot;#各种语言输出-hello-world&quot; class=&quot;headerlink&quot; title=&quot;各种语言输出: hello world&quot;&gt;&lt;/a&gt;各种语言输出: hello world&lt;/h1&gt;&lt;h2</description>
-          
-        
-      
-      
-      
-      
-      
-      <category domain="https://blog.Kwicaii.moe/tags/%E6%8A%80%E6%9C%AF/">技术</category>
-      
-      
-      <comments>https://blog.kwicaii.moe/2025/04/19/hello-dev-world/#disqus_thread</comments>
       
     </item>
     
